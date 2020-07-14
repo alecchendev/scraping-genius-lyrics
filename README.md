@@ -1,2 +1,2 @@
 # scraping-genius-lyrics
-Practicing web scraping by getting the lyrics of the top ten songs trending on genius lyrics.
+This small project was just to get some practice with basic web scraping with some practical application. I'd been impressed before by people analyzing lyrics of songs, so I used web scraping to scrape the lyrics of the top ten songs trending on genius lyrics. I wrote an article on Medium (https://medium.com/analytics-vidhya/basic-web-scraping-d6bb44118304) walking through the code that was curated in Data Science and Programming, and published in Analytics Vidhya.
